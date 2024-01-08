@@ -43,11 +43,6 @@ export default function Home() {
           </a>
         </p>
         <p className="menu-item">
-          <a href="https://prayerbible.netlify.app/" target='_window'>
-            <code>prayer bible</code>
-          </a>
-        </p>
-        <p className="menu-item">
           <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
             <code>from the kitchen of</code>
           </a>
