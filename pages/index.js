@@ -12,14 +12,42 @@ export default function Home() {
 
       <main>
         <Header title="bfsio.net is up" />
-        <p className="description">
-          <code href="http://fostercs.wpengine.com/">happy little code</code>
-          <code href="https://blog.bfsio.net/">blog</code>
-          <code href="https://netlify-go-function.netlify.app/">go lambda function</code>
-          <code href="https://k8s-debugging-helper-app.netlify.app/">k8s debugging helper</code>
-          <code href="https://mvskokvlke360.wpengine.com/">mvskokvlke</code>
-          <code href="https://bond-flix.netlify.app/">bondflix</code>
-          <code href="https://from-the-kitchen-of.netlify.app/">from the kitchen of</code>
+        <p className="menu">
+          <p>
+            <a href="https://blog.bfsio.net/">
+              <code>blog</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://bond-flix.netlify.app/">
+              <code>bond flix</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://netlify-go-function.netlify.app/">
+              <code>netlify go lambda function</code>
+            </a>
+          </p>
+          <p>
+            <a href="http://fostercs.wpengine.com/">
+              <code>happy little code</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://mvskokvlke360.wpengine.com/">
+              <code>mvskokvlke360</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://prayerbible.netlify.app/">
+              <code>prayer bible</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://from-the-kitchen-of.netlify.app/">
+              <code>from the kitchen of</code>
+            </a>
+          </p>
         </p>
       </main>
 
@@ -27,3 +55,5 @@ export default function Home() {
     </div>
   )
 }
+
+
