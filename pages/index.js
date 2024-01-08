@@ -14,37 +14,37 @@ export default function Home() {
         <Header title="bfsio.net is up" />
         <p className="menu">
           <p>
-            <a href="https://blog.bfsio.net/">
+            <a href="https://blog.bfsio.net/" target='_window'>
               <code>blog</code>
             </a>
           </p>
           <p>
-            <a href="https://bond-flix.netlify.app/">
+            <a href="https://bond-flix.netlify.app/" target='_window'>
               <code>bond flix</code>
             </a>
           </p>
           <p>
-            <a href="https://netlify-go-function.netlify.app/">
+            <a href="https://netlify-go-function.netlify.app/" target='_window'>
               <code>netlify go lambda function</code>
             </a>
           </p>
           <p>
-            <a href="http://fostercs.wpengine.com/">
+            <a href="http://fostercs.wpengine.com/" target='_window'>
               <code>happy little code</code>
             </a>
           </p>
           <p>
-            <a href="https://mvskokvlke360.wpengine.com/">
+            <a href="https://mvskokvlke360.wpengine.com/" target='_window'>
               <code>mvskokvlke360</code>
             </a>
           </p>
           <p>
-            <a href="https://prayerbible.netlify.app/">
+            <a href="https://prayerbible.netlify.app/" target='_window'>
               <code>prayer bible</code>
             </a>
           </p>
           <p>
-            <a href="https://from-the-kitchen-of.netlify.app/">
+            <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
               <code>from the kitchen of</code>
             </a>
           </p>
