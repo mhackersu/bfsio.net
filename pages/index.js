@@ -13,7 +13,12 @@ export default function Home() {
       <main>
         <Header title="bfsio.net is up" />
         <p className="menu">
-        <p>
+          <p>
+            <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
+              <code>turn on the light!</code>
+            </a>
+          </p>
+          <p>
             <a href="https://blog.bfsio.net/" target='_window'>
               <code>blog</code>
             </a>
