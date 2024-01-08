@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="bfsio.net is up" />
         <p className="description">
-          Oh happy day <code>pages/index.js</code>
+          <code>happy little code</code>
         </p>
       </main>
 
