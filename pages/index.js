@@ -15,7 +15,7 @@ export default function Home() {
         <p className="menu">
           <p>
             <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
-              <code>turn on the light!</code>
+              <code>toggle the lamp</code>
             </a>
           </p>
           <p>
@@ -51,6 +51,21 @@ export default function Home() {
           <p>
             <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
               <code>from the kitchen of</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://fp-weather.netlify.app/" target='_window'>
+              <code>functional weather app<code>
+            </a>
+          </p>
+          <p>
+            <a href="https://prayerbible.netlify.app/" target='_window'>
+              <code>prayer bible</code>
+            </a>
+          </p>
+          <p>
+            <a href="https://compliment-time.netlify.app/" target='_window'>
+              <code>compliment time</code>
             </a>
           </p>
         </p>
