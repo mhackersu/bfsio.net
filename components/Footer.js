@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/bfsio.png" alt="Banana For Scale Logo" className={styles.logo} />
+        <img src="/bfsio-logo.png" alt="Banana For Scale Logo" className={styles.logo} />
       </footer>
     </>
   )
