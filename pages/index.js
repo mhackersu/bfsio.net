@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="bfsio.net is up" />
         <p className="menu">
-          <p>
+        <p>
             <a href="https://blog.bfsio.net/" target='_window'>
               <code>blog</code>
             </a>
