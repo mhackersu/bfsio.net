@@ -5,9 +5,9 @@ describe('sample test', () => {
 
   it('displays the resources text', () => {
     cy.get('h1')
-    .contains('Welcome to my app!');
+    .contains('Banana For Scale');
   })
-  it('renders the Netlify logo image', () => {
+  it('renders the BFS logo', () => {
     cy.get('img')
     .should('be.visible')
     .and(($img) => {
