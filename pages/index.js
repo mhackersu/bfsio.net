@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="bfsio.net is up" />
+        <Header title="Banana For Scale" />
         <p className="menu-item">
           <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
             <code>toggle the lamp</code>
