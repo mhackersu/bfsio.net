@@ -33,7 +33,7 @@ export default function Home() {
           </a>
         </p>
         <p className="menu-item">
-          <a href="http://fostercs.wpengine.com/" target='_window'>
+          <a href="https://fostercs.github.io/" target='_window'>
             <code>happy little code</code>
           </a>
         </p>
