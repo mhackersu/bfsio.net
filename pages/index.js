@@ -39,7 +39,7 @@ export default function Home() {
         </p>
         <p className="menu-item">
           <a href="https://mvskokvlke360.wpengine.com/" target='_window'>
-            <code>mvskokvlke360</code>
+            <code>mvskokvlke</code>
           </a>
         </p>
         <p className="menu-item">
@@ -49,17 +49,17 @@ export default function Home() {
         </p>
         <p className="menu-item">
           <a href="https://fp-weather.netlify.app/" target='_window'>
-            <code>functional weather app</code>
-          </a>
-        </p>
-        <p className="menu-item">
-          <a href="https://prayerbible.netlify.app/" target='_window'>
-            <code>prayer bible</code>
+            <code>fp weather app</code>
           </a>
         </p>
         <p className="menu-item">
           <a href="https://compliment-time.netlify.app/" target='_window'>
             <code>compliment time</code>
+          </a>
+        </p>
+        <p className="menu-item">
+          <a href="https://prayerbible.netlify.app/" target='_window'>
+            <code>prayer bible</code>
           </a>
         </p>
       </main>
