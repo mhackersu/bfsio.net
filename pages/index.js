@@ -59,7 +59,12 @@ export default function Home() {
         </p>
         <p className="menu-item">
           <a href="https://prayerbible.netlify.app/" target='_window'>
-            <code>prayer bible</code>
+            <code>Digital Catechism</code>
+          </a>
+        </p>
+        <p className="menu-item">
+          <a href="https://www.bonfire.com/store/earthling-store/" target='_window'>
+            <code>Earthling Store</code>
           </a>
         </p>
       </main>
