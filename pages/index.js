@@ -38,7 +38,7 @@ export default function Home() {
           </a>
         </p>
         <p className="menu-item">
-          <a href="https://mvskokvlke360.wpengine.com/" target='_window'>
+          <a href="https://mvskokvlke.com" target='_window'>
             <code>mvskokvlke</code>
           </a>
         </p>
@@ -58,13 +58,18 @@ export default function Home() {
           </a>
         </p>
         <p className="menu-item">
-          <a href="https://prayerbible.netlify.app/" target='_window'>
-            <code>Digital Catechism</code>
+          <a href="https://digitalcatechism.com" target='_window'>
+            <code>digital catechism</code>
           </a>
         </p>
         <p className="menu-item">
           <a href="https://www.bonfire.com/store/earthling-store/" target='_window'>
-            <code>Earthling Store</code>
+            <code>earthling store</code>
+          </a>
+        </p>
+        <p className="menu-item">
+          <a href="https://www.doublebarmphotography.com/" target='_window'>
+            <code>photography website</code>
           </a>
         </p>
       </main>
