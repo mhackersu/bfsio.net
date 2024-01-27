@@ -58,7 +58,7 @@ export default function Home() {
           </a>
         </p>
         <p className="menu-item">
-          <a href="https://digitalcatechism.com" target='_window'>
+          <a href="https://thedigitalcatechism.com/" target='_window'>
             <code>digital catechism</code>
           </a>
         </p>
