@@ -13,18 +13,28 @@ export default function Home() {
       <main>
         <Header title="Banana For Scale" />
           <p className="menu-item">
+            <a href="#">
+              <code>welcome</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
+              <code>toggle the lamp</code>
+            </a>
+          </p>
+          <p className="menu-item">
             <a href="https://bond-flix.netlify.app/" target='_window'>
-              <code>movies</code>
+              <code>watch movies</code>
             </a>
           </p>
           <p className="menu-item">
             <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
-              <code>recipes</code>
+              <code>cook recipes</code>
             </a>
           </p>
           <p className="menu-item">
             <a href="https://fp-weather.netlify.app/" target='_window'>
-              <code>weather report</code>
+              <code>check the weather report</code>
             </a>
           </p>
           <p className="menu-item">
@@ -34,7 +44,7 @@ export default function Home() {
           </p>
           <p className="menu-item">
             <a href="https://netlify-go-function.netlify.app/" target='_window'>
-              <code>metar decoder</code>
+              <code>decode metar messages</code>
             </a>
           </p>
           <p className="menu-item">
