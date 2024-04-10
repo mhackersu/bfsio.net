@@ -22,12 +22,5 @@ export default function Projects() {
         {defaultContentC}
       </AccordionItem>
     </Accordion>
-    <div className="container">
-      <Head>
-        <title>Projects</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <Footer />
-    </div>
   )
 }
