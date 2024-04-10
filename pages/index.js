@@ -13,8 +13,8 @@ export default function Home() {
       <main>
         <Header title="Banana For Scale" />
           <p className="menu-item">
-            <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
-              <code>toggle the lamp</code>
+            <a href="https://fp-weather.netlify.app/" target='_window'>
+              <code>weather app</code>
             </a>
           </p>
       </main>
