@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Banana For Scale" />
           <p className="menu-item">
-            <a href="#">
+            <a href="/welcome" target='_window'>
               <code>welcome</code>
             </a>
           </p>
