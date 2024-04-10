@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Banana For Scale" />
           <p className="menu-item">
             <a href="https://fp-weather.netlify.app/" target='_window'>
-              <code>weather app</code>
+              <code>check the weather</code>
             </a>
           </p>
       </main>
