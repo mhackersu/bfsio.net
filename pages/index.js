@@ -18,38 +18,28 @@ export default function Home() {
             </a>
           </p>
           <p className="menu-item">
-            <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>
-              <code>toggle the lamp</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://bond-flix.netlify.app/" target='_window'>
-              <code>watch movies</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
-              <code>cook recipes</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://fp-weather.netlify.app/" target='_window'>
-              <code>check the weather report</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://compliment-time.netlify.app/" target='_window'>
-              <code>receive a compliment</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://netlify-go-function.netlify.app/" target='_window'>
-              <code>decode metar messages</code>
+            <a href="/projects">
+              <code>code projects</code>
             </a>
           </p>
           <p className="menu-item">
             <a href="https://www.bonfire.com/store/earthling-store/" target='_window'>
               <code>shop</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>
+              <code>linkedin</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://www.github.com/mhackersu" target='_window'>
+              <code>github</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://mvskokvlke.com" target='_window'>
+              <code>mvskokvlke nation</code>
             </a>
           </p>
       </main>
