@@ -13,8 +13,33 @@ export default function Home() {
       <main>
         <Header title="Banana For Scale" />
           <p className="menu-item">
+            <a href="https://bond-flix.netlify.app/" target='_window'>
+              <code>movies</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>
+              <code>recipes</code>
+            </a>
+          </p>
+          <p className="menu-item">
             <a href="https://fp-weather.netlify.app/" target='_window'>
-              <code>check the weather</code>
+              <code>weather report</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://compliment-time.netlify.app/" target='_window'>
+              <code>receive a compliment</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://netlify-go-function.netlify.app/" target='_window'>
+              <code>metar decoder</code>
+            </a>
+          </p>
+          <p className="menu-item">
+            <a href="https://www.bonfire.com/store/earthling-store/" target='_window'>
+              <code>shop</code>
             </a>
           </p>
       </main>
