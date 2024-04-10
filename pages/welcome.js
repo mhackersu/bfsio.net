@@ -11,6 +11,12 @@ export default function Welcome() {
         <title>Welcome</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <main>
+	      <p className="menu-item">
+	        <a href="/welcome" target='_window'>
+	          <code>welcome</code>
+	        </a>
+	      </p>
       </main>
       <Footer />
     </div>
