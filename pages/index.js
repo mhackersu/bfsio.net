@@ -21,12 +21,17 @@ export default function Home() {
             </a>
           </p>
           <p>
+            <a href="https://blog.bfsio.net" target="_window">
+              <code>blog</code>
+            </a>
+          </p>
+          <p>
             <a href="https://mvskokvlke.com" target='_window'>
               <code>mvskokvlke</code>
             </a>
           </p>
           <p>
-            <a href="href=https://fostercs.github.io/" target='_window'>
+            <a href="https://fostercs.github.io/" target='_window'>
               <code>foster cs</code>
             </a>
           </p>

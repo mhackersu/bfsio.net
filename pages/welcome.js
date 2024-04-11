@@ -6,8 +6,8 @@ import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
 export default function Welcome() {
-  const welcomeContentA = "Personal interests include ham radio (KI5IBD) and weather radio. Other interests include following r/cyberdeck, playing clarinet, painting with oils, and experimenting the OP-1."
-  const welcomeContentB = "Professional experience includes GCP, AWS, and Azure, in DevOps and IaC contexts. Primarily interested in building applications using next-generation cloud platforms such as Netlify, Render, Cloudflare, and Fastly. Have shipped primarily backend contributions in GoLang and Ruby, Python, and JS. Presently, Lambda functions are very interesting to me."
+  const welcomeContentA = ""
+  const welcomeContentB = ""
 
   return (
     <div className="container">
@@ -35,12 +35,36 @@ export default function Welcome() {
         </p>
           <Accordion variant="bordered">
             <AccordionItem key="1" aria-label="Accordion 1" title="personal interests">
-              {welcomeContentA}
+                <br></br>
+                <br></br>
+                <b>Hobbies:</b>
+                <br></br>
+                <br></br>
+                <li>r/meteorology</li>
+                <li>r/hamradio @KI5IBD</li>
+                <li>r/cyberdeck</li>
+                <li>r/clarinet</li>
+                <li>r/oilpainting</li>
+                <li>r/OP1users</li>
               <p><code><a href="https://www.github.com/mhackersu" target='_window'>follow me on github</a></code></p>
             </AccordionItem>
             <AccordionItem key="2" aria-label="Accordion 2" title="professional experience">
-              <p className="menu-item">{welcomeContentB}</p>
-              <p><code><a href="https://www.linkedin.com/in/mike-hacker" target='_window'>follow me on linkedin</a></code></p>
+              <p className="menu-item">
+                Professional experience includes GCP, AWS, and Azure, in DevOps and IaC contexts.
+                <br></br>
+                <br></br>
+                My contributions tend to be backend in nature and written in NodeJS, Ruby, and Python.
+                <br></br>
+                <br></br>
+                I am learning Go; I will share some recent Go projects soon.
+                <br></br>
+                <br></br>
+              </p>
+              <p>
+                <code>
+                  <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>follow me on linkedin</a>
+                </code>
+              </p>
             </AccordionItem>
           </Accordion>
           <br></br>
