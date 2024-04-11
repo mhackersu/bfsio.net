@@ -87,7 +87,7 @@ export default function Projects() {
                 I started this project in 2016 as a self-love exercise while traveling in New Zealand.
                 <br></br>
                 <br></br>
-                <i>* Refinements include creating a backend API server for the data which currently is simply in a flat file. </i>
+                <i>* Refinements include creating a backend API server as a publically open API for the data.</i>
                 <br></br>
                 <br></br>
                 <a href="https://github.com/mhackersu/compliment-time-app">GitHub</a>
