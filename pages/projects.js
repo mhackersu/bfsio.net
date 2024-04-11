@@ -59,11 +59,57 @@ export default function Projects() {
                 <a href="https://github.com/mhackersu/avwx-api-js">New Backend in Progress</a>
             </a></p>
           </AccordionItem>
+          <AccordionItem title="Toggle The Lamp" className="accordion">
+            <p><a className="accordion-text">
+                <br></br>
+                <a href="https://react-js-toggle-lamp.netlify.app/" target='_window'>Toggle The Lamp</a>
+                <br></br>
+                <br></br>
+                This project utilizes SVG and JS to create lighting effects.
+                <br></br>
+                <br></br>
+                I arranged the isometric objects into the unique SVG objects,
+                <br></br>
+                <br></br>
+                and created the JS to toggle between the differient JS objects.
+                <br></br>
+                <br></br>
+                <a href="https://github.com/mhackersu/react-js-toggle-lamp">GitHub</a>
+            </a></p>
+          </AccordionItem>
           <AccordionItem title="Compliment Time" className="accordion">
-            <p><a className="accordion-text">Compliment Time</a></p>
+            <p>
+              <a className="accordion-text">
+                <br></br>
+                <a href="https://compliment-time.netlify.app/" target='_window'>Compliment Time</a>
+                <br></br>
+                <br></br>
+                I started this project in 2016 as a self-love exercise while traveling in New Zealand.
+                <br></br>
+                <br></br>
+                <i>* Refinements include creating a backend API server for the data which currently is simply in a flat file. </i>
+                <br></br>
+                <br></br>
+                <a href="https://github.com/mhackersu/compliment-time-app">GitHub</a>
+              </a>
+            </p>
           </AccordionItem>
           <AccordionItem title="Recipe Book" className="accordion">
-            <p><a className="accordion-text">Recipe Book</a></p>
+            <p>
+              <a className="accordion-text">
+                <br></br>
+                <a href="https://from-the-kitchen-of.netlify.app/" target='_window'>Recipe Book</a>
+                <br></br>
+                <br></br>
+                Nothing to see here, just another recipe book.
+                <br></br>
+                <br></br>
+                <i>* Have more recipes to share; Will update soon. </i>
+                <br></br>
+                <br></br>
+                <a href="https://github.com/mhackersu/from-the-kitchen-of">GitHub</a>
+              </a>
+            </p>
           </AccordionItem>
         </Accordion>
       </main>
