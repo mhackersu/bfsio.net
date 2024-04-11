@@ -6,40 +6,28 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Banana For Scale</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <Header title="Banana For Scale" />
-          <p className="menu-item">
+          <p>
             <a href="/welcome">
               <code>welcome</code>
             </a>
           </p>
-          <p className="menu-item">
+          <p>
             <a href="/projects">
-              <code>code projects</code>
+              <code>projects</code>
             </a>
           </p>
-          <p className="menu-item">
-            <a href="https://www.bonfire.com/store/earthling-store/" target='_window'>
-              <code>shop</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>
-              <code>linkedin</code>
-            </a>
-          </p>
-          <p className="menu-item">
-            <a href="https://www.github.com/mhackersu" target='_window'>
-              <code>github</code>
-            </a>
-          </p>
-          <p className="menu-item">
+          <p>
             <a href="https://mvskokvlke.com" target='_window'>
-              <code>mvskokvlke nation</code>
+              <code>mvskokvlke</code>
+            </a>
+          </p>
+          <p>
+            <a href="href=https://fostercs.github.io/" target='_window'>
+              <code>foster cs</code>
             </a>
           </p>
       </main>
@@ -47,5 +35,3 @@ export default function Home() {
     </div>
   )
 }
-
-
