@@ -14,11 +14,14 @@ export default function Welcome() {
       </Head>
       <p><a href="/">navigate to main page</a></p>
       <main>
-        <Header title=""/>
-        <code>hello world</code>
-        <p className="menu-item">
-            <br></br>
-            <a href="https://github.com/mhackersu/bfsio.net" target="_window">This site is built on Next.js</a>
+        <br></br>
+        <br></br>
+        <code>back</code>
+        <Header title="w e l c o m e"/>
+        <p>
+          <code>
+            <a href="https://github.com/mhackersu/bfsio.net" target='_window'>This site runs on Next.js</a>
+          </code>
         </p>
         <br></br>
         <b>Personal Interests</b>
@@ -32,7 +35,7 @@ export default function Welcome() {
         <br></br>
         <p>
           <code>
-            <a href="https://www.github/mhackersu" target='_window'>follow me on GitHub</a>
+            <a href="https://www.github/mhackersu" target='_window'>GitHub</a>
           </code>
         </p>
         <br></br>
@@ -45,7 +48,7 @@ export default function Welcome() {
         <br></br>
         <p>
           <code>
-            <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>follow me on LinkedIn</a>
+            <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>LinkedIn</a>
           </code>
         </p>
       </main>
