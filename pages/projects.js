@@ -14,7 +14,6 @@ export default function Projects() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <br></br>
-      <br></br>
       <a href="/"><code>back</code></a>
       <Header title={title}/>
       <main>
