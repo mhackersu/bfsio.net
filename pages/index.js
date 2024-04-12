@@ -13,7 +13,7 @@ export default function Home() {
       <main>
       <br></br>
       <br></br>
-      <i>mindfully created minimal design</i>
+      <i>mindfully created, minimal design</i>
       <br></br>
       <br></br>
           <p>

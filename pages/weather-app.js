@@ -23,8 +23,8 @@ export default function WeatherApp() {
         <li>Utilizes RamdaJS</li>
         <li>Functional Programming in JS</li>
         <br></br>
-        <p><code><a href="https://github.com/mhackersu/avwx-api-js" target='_window'>New Backend in Progress</a></code></p>
         <p><code><a href="https://github.com/mhackersu/fp-app-openweather-api" target='_window'>Github</a></code></p>
+        <p><code><a href="https://github.com/mhackersu/avwx-api-js" target='_window'>New Backend in Progress</a></code></p>
     </main>
     <Footer />
     </div>
