@@ -28,10 +28,10 @@ export default function Projects() {
                 It is a Netflix-insipred UI with search function retrieving data from a JSON flat file.
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/bondflix">Github</a>
+                <a href="https://github.com/mhackersu/bondflix" target='_window'>Github</a>
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/bondflix-api-rails-6">New Backend in Progress</a>
+                <a href="https://github.com/mhackersu/bondflix-api-rails-6" target='_window'>New Backend in Progress</a>
               </a>
             </p>
           </AccordionItem>
@@ -47,16 +47,16 @@ export default function Projects() {
                 <i>* Currently the UI works but the API calls are broken because of OpenAPIWeather CORS related issues.
                 <br></br>
                 <br></br>
-                Refinements are in progress <a href="https://github.com/mhackersu/avwx-api-js">here.</a></i>
+                Refinements are in progress <a href="https://github.com/mhackersu/avwx-api-js" target='_window'>here.</a></i>
                 <br></br>
                 <br></br>
                 <i>I am planning to solve the API issue by polling for METORs and TAMs data.</i>
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/fp-app-openweather-api">Github</a>
+                <a href="https://github.com/mhackersu/fp-app-openweather-api" target='_window'>Github</a>
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/avwx-api-js">New Backend in Progress</a>
+                <a href="https://github.com/mhackersu/avwx-api-js" target='_window'>New Backend in Progress</a>
             </a></p>
           </AccordionItem>
           <AccordionItem title="Toggle The Lamp" className="accordion">
@@ -74,7 +74,7 @@ export default function Projects() {
                 and created the JS to toggle between the differient JS objects.
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/react-js-toggle-lamp">GitHub</a>
+                <a href="https://github.com/mhackersu/react-js-toggle-lamp" target='_window'>GitHub</a>
             </a></p>
           </AccordionItem>
           <AccordionItem title="Compliment Time" className="accordion">
@@ -84,13 +84,13 @@ export default function Projects() {
                 <a href="https://compliment-time.netlify.app/" target='_window'>Compliment Time</a>
                 <br></br>
                 <br></br>
-                I started this project in 2016 as a self-love exercise while traveling in New Zealand.
+                I started this project in 2016 as a self-care exercise while traveling in New Zealand.
                 <br></br>
                 <br></br>
                 <i>* Refinements include creating a backend API server as a publically open API for the data.</i>
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/compliment-time-app">GitHub</a>
+                <a href="https://github.com/mhackersu/compliment-time-app" target='_window'>GitHub</a>
               </a>
             </p>
           </AccordionItem>
@@ -107,7 +107,7 @@ export default function Projects() {
                 <i>* Have more recipes to share; Will update soon. </i>
                 <br></br>
                 <br></br>
-                <a href="https://github.com/mhackersu/from-the-kitchen-of">GitHub</a>
+                <a href="https://github.com/mhackersu/from-the-kitchen-of" target='_window'>GitHub</a>
               </a>
             </p>
           </AccordionItem>
