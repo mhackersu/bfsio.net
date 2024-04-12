@@ -41,3 +41,7 @@ code {
 .header {
   padding-top: 20px;
 }
+
+.copyright {
+  font-size: .7em;
+}

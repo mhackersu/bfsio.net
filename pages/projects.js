@@ -15,18 +15,15 @@ export default function Projects() {
       </Head>
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
       <a href="/"><code>back</code></a>
       <Header title={title}/>
-    <main>
-        <p><code><a href="/k8s-debugging-app">k8s debugging app</a></code></p>
-        <p><code><a href="/weather-app">weather app</a></code></p>
+      <main>
         <p><code><a href="/bond-flix">bondflix</a></code></p>
-        <p><code><a href="/toggle-the-lamp">toggle the lamp</a></code></p>
+        <p><code><a href="/weather-app">weather app</a></code></p>
         <p><code><a href="/compliment-time">compliment time</a></code></p>
-    </main>
-    <Footer />
+        <p><code><a href="/k8s-debugging-app">k8s debugging app</a></code></p>
+      </main>
+      <Footer />
     </div>
   )
 }
