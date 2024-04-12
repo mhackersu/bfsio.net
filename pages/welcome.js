@@ -12,8 +12,9 @@ export default function Welcome() {
         <title>Welcome</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <p><a href="/">navigate to main page</a></p>
       <main>
+        <br></br>
+        <br></br>
         <br></br>
         <br></br>
         <a href="/"><code>back</code></a>
