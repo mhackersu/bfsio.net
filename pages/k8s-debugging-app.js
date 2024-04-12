@@ -24,8 +24,9 @@ export default function K8sDebuggerHelper() {
           </code>
         </p>
         <br></br>
-        <li>utilizes <a href="https://learnk8s.io/troubleshooting-deployments" target='_window'>debugging</a> workflow</li>
+        <li>utilizes k8s <a href="https://learnk8s.io/troubleshooting-deployments" target='_window'>debugging</a> workflow</li>
         <li>guides user thru k8s debugging steps</li>
+        <li>interactive design</li>
         <br></br>
         <p>
           <code>
@@ -33,11 +34,6 @@ export default function K8sDebuggerHelper() {
           </code>
         </p>
         <br></br>
-        <p>
-          <code>
-              <a href="https://k8s-debugging-helper-app.netlify.app/" target='_window'>k8s Debugger Helper App</a>
-          </code>
-        </p>
       </main>
       <Footer />
     </div>

@@ -20,18 +20,21 @@ export default function ComplimentTime() {
       <main>
         <p>
           <code>
-              <a href="#" target='_window'>Compliment Time</a>
+              <a href="https://compliment-time.netlify.app" target='_window'>Compliment Time</a>
           </code>
         </p>
         <br></br>
-        <li></li> 
+        <br></br>
+        <li>Makes the world a better place</li>
+        <li>Dispenses random compliment</li>
+        <li>Utilizes Math.Random.floor</li>
+        <li>* Public API slated</li>
         <br></br>
         <p>
           <code>
               <a href="" target='_window'>GitHub</a>
           </code>
         </p>
-        <br></br>
       </main>
       <Footer />
     </div>
