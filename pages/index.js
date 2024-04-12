@@ -21,13 +21,8 @@ export default function Home() {
             </a>
           </p>
           <p>
-            <a href="https://blog.bfsio.net" target="_window">
-              <code>blog</code>
-            </a>
-          </p>
-          <p>
-            <a href="https://fostercs.github.io/" target='_window'>
-              <code>foster cs</code>
+            <a href="https://from-the-kitchen-of.netlify.app" target="_window">
+              <code>recipe book</code>
             </a>
           </p>
       </main>

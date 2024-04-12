@@ -33,3 +33,11 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.footer {
+  padding-bottom: 20px;
+}
+
+.header {
+  padding-top: 20px;
+}

@@ -6,6 +6,7 @@ import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
 export default function Welcome() {
+  const title = "Welcome";
   return (
     <div className="container">
       <Head>
@@ -18,7 +19,7 @@ export default function Welcome() {
         <br></br>
         <br></br>
         <a href="/"><code>back</code></a>
-        <Header title="w e l c o m e"/>
+        <Header title={title}/>
         <p>
           <code>
             <a href="https://github.com/mhackersu/bfsio.net" target='_window'>This site runs on Next.js</a>
