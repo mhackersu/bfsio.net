@@ -31,6 +31,11 @@ export default function Home() {
               <code>about</code>
             </a>
           </p>
+          <p>
+            <a href="https://mvskokvlke.com/" target="_window">
+              <code>blog</code>
+            </a>
+          </p>
       </main>
       <Footer />
     </div>
