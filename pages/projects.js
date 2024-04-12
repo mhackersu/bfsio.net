@@ -16,6 +16,28 @@ export default function Projects() {
       <main>
         <Header title="Projects" />
         <Accordion>
+          <AccordionItem title="k8s Debugger Helper App" className="accordion">
+          <p><a className="accordion-text">
+              <br></br>
+              <a href="https://k8s-debugging-helper-app.netlify.app/" target='_window'>k8s Debugger Helper App</a>
+              <br></br>
+              <br></br>
+              This project utilizes <a href="https://learnk8s.io/troubleshooting-deployments" target='_window'>this</a> k8s debugging workflow in an interactive flowchart app.
+              <br></br>
+              <br></br>
+              The user simply answers questions and the app will step the user thru the appropriate k8s debugging steps.
+              <br></br>
+              <br></br>
+              <i>* CSS refinements are slated for the UI </i>
+              <br></br>
+              <br></br>
+              <a href="https://github.com/mhackersu/k8s-debuging-helper-app" target='_window'>GitHub</a>
+              <br></br>
+              <br></br>
+          </a></p>
+          </AccordionItem>
+        </Accordion>
+        <Accordion>
           <AccordionItem title="Bond Flix" className="accordion">
             <p>
               <a className="accordion-text">
