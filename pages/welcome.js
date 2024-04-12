@@ -16,7 +16,7 @@ export default function Welcome() {
       <main>
         <br></br>
         <br></br>
-        <code>back</code>
+        <a href="/"><code>back</code></a>
         <Header title="w e l c o m e"/>
         <p>
           <code>
