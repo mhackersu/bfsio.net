@@ -14,10 +14,10 @@ export default function Projects() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <br></br>
-      <a href="/"><code>back</code></a>
+      <a href="/"><code>back to home page...</code></a>
       <Header title={title}/>
       <main>
-        <p><code><a href="/bond-flix">bondflix</a></code></p>
+        <p><code><a href="/bondflix">bondflix</a></code></p>
         <p><code><a href="/weather-app">weather app</a></code></p>
         <p><code><a href="/compliment-time">compliment time</a></code></p>
         <p><code><a href="/k8s-debugging-app">k8s debugging app</a></code></p>

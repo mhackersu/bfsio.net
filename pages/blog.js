@@ -14,7 +14,7 @@ export default function Projects() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <br></br>
-      <a href="/"><code>back</code></a>
+      <a href="/"><code>back to home page...</code></a>
       <Header title={title}/>
     <main>
         <p><code><a href="/blog">blog</a></code></p>

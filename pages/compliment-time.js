@@ -1,30 +1,34 @@
-// welcome.js
+// compliment-time.js
 
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function Welcome() {
-  const title = "Welcome";
+export default function ComplimentTime() {
+  const title = "Compliment Time"
   return (
     <div className="container">
       <Head>
-        <title>Welcome</title>
+        <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <br></br>
+      <br></br>
+      <a href="/projects"><code>back to projects...</code></a>
+      <Header title={title}/>
       <main>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <a href="/"><code>back to home page...</code></a>
-        <Header title={title}/>
         <p>
           <code>
-            <a href="https://github.com/mhackersu/bfsio.net" target='_window'>This site runs on Next.js</a>
+              <a href="#" target='_window'>Compliment Time</a>
+          </code>
+        </p>
+        <br></br>
+        <li></li> 
+        <br></br>
+        <p>
+          <code>
+              <a href="" target='_window'>GitHub</a>
           </code>
         </p>
         <br></br>

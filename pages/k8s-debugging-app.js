@@ -15,9 +15,7 @@ export default function K8sDebuggerHelper() {
       </Head>
       <br></br>
       <br></br>
-      <br></br>
-      <br></br>
-      <a href="/projects"><code>back</code></a>
+      <a href="/projects"><code>back to projects...</code></a>
       <Header title={title}/>
       <main>
         <p>

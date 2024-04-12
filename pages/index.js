@@ -22,6 +22,11 @@ export default function Home() {
             </a>
           </p>
           <p>
+            <a href="/about">
+              <code>about</code>
+            </a>
+          </p>
+          <p>
             <a href="/projects">
               <code>projects</code>
             </a>

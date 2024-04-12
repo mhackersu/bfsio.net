@@ -1,30 +1,36 @@
-// welcome.js
+// hello-world.js
 
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function Welcome() {
-  const title = "Welcome";
+export default function HelloWorld() {
+  const title = "Hello World"
   return (
     <div className="container">
       <Head>
-        <title>Welcome</title>
+        <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <a href="/projects"><code>back</code></a>
+      <Header title={title}/>
       <main>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <a href="/"><code>back to home page...</code></a>
-        <Header title={title}/>
         <p>
           <code>
-            <a href="https://github.com/mhackersu/bfsio.net" target='_window'>This site runs on Next.js</a>
+              <a href="#" target='_window'>Hello World</a>
+          </code>
+        </p>
+        <br></br>
+        <li></li> 
+        <br></br>
+        <p>
+          <code>
+              <a href="" target='_window'>GitHub</a>
           </code>
         </p>
         <br></br>
