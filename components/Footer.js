@@ -8,7 +8,7 @@ export default function Footer() {
           <img src="/bfsio-logo.png" alt="Banana For Scale Logo" className={styles.logo} />
         </footer>
       </a>
-      <p className="copyright">copyright 2024-present bfsio dot net</p>
+      <p className="copyright">copyright 2024 - present - bfsio dot net - mc && md</p>
     </>
   )
 }

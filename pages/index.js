@@ -11,6 +11,11 @@ export default function Home() {
       </Head>
         <Header title={title} />
       <main>
+      <br></br>
+      <br></br>
+      <i>mindfully created minimal design</i>
+      <br></br>
+      <br></br>
           <p>
             <a href="/welcome">
               <code>welcome</code>
