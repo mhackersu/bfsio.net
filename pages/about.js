@@ -26,6 +26,11 @@ export default function About() {
             <a href="https://www.github/mhackersu" target='_window'>GitHub</a>
           </code>
         </p>
+        <p>
+          <code>
+            <a href="https://stackoverflow.com/users/4612518/bananaforscale" target='_window'>Stack Overflow</a>
+          </code>
+        </p>
         <br></br>
         <b>Professional Experience</b>
         <br></br>
