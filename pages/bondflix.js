@@ -24,7 +24,7 @@ export default function Bondflix() {
         <li>Displays 007 Titles</li>
         <br></br>
         <p><code><a href="https://github.com/mhackersu/bondflix/tree/waku" target="_window">Migrate to Waku</a></code></p>
-        <br>
+        <br></br>
         <p><code><a href="https://github.com/mhackersu/bondflix" target="_window">GitHub</a></code></p>
         <p><code><a href="https://github.com/mhackersu/bondflix-api-rails-6" target='_window'>New Backend in Progress</a></code></p>
     </main>
