@@ -17,7 +17,7 @@ export default function Bondflix() {
       <a href="/projects"><code>back to projects...</code></a>
       <Header title={title}/>
     <main>
-        <p><code><a href="https://bond-flix.netlify.app" target="_window">Bondflix App</a></code></p>
+        <p><code><a href="https://bondflix.vercel.app/" target="_window">Bondflix App</a></code></p>
         <li>Netflix-Inspired</li>
         <li>Frontend Masters ReactJS Course</li>
         <li>Reads from JSON flat-file</li>
