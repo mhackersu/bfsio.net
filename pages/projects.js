@@ -18,6 +18,7 @@ export default function Projects() {
       <Header title={title}/>
       <main>
         <p><code><a href="/feeder">Online Feeder</a></code></p>
+        <p><code><a href="/infra-assistant">Infra Assistant</a></code></p>
       </main>
       <Footer />
     </div>

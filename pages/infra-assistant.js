@@ -1,4 +1,4 @@
-// feeder.js
+// infra-assistant.js
 
 import Head from 'next/head'
 import Header from '@components/Header'
@@ -17,9 +17,9 @@ export default function Feeder() {
       <a href="/projects"><code>back to projects...</code></a>
       <Header title={title}/>
     <main>
-        <p><code><a href="https://online-feeder.vercel.app" target="_window">Online Bird Feeder</a></code></p>
-        <p>Online Feeder</p>
-        <p><code><a href="https://github.com/mhackersu/bird-feeder" target="_window">Source</a></code></p>
+    <p><code><a href="https://k8s-debugging-helper-app.netlify.app/" target="_window">Kubernetes Developer Debugging Assistant</a></code></p>
+        <p>Kate's Butler</p>
+        <p><code><a href="https://github.com/mhackersu/k8s-debuging-helper-app" target="_window">Source</a></code></p>
         <br></br>
     </main>
     <Footer />
