@@ -17,26 +17,14 @@ export default function About() {
       	<br></br>
       	<a href="/"><code>back to home page...</code></a>
       <main>
-        <b>Personal Interests</b>
-        <br></br>
-        <li>r/meteorology</li>
-        <li>r/hamradio @KI5IBD</li>
         <p>
           <code>
-            <a href="https://www.github/mhackersu" target='_window'>GitHub</a>
-          </code>
-        </p>
-        <p>
-          <code>
-            <a href="https://stackoverflow.com/users/4612518/bananaforscale" target='_window'>Stack Overflow</a>
+            <a href="https://github.com/bfsio" target='_window'>GitHub</a>
           </code>
         </p>
         <br></br>
-        <b>Professional Experience</b>
+        <b>DevOps Consulting</b>
         <br></br>
-        <li>GCP, AWS, and Azure</li>
-        <li>Go, Ruby, Python, JS</li>
-        <li>DevOps, IaC</li>
         <br></br>
       </main>
       <Footer />
