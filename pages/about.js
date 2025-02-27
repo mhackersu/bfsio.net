@@ -38,11 +38,6 @@ export default function About() {
         <li>Go, Ruby, Python, JS</li>
         <li>DevOps, IaC</li>
         <br></br>
-        <p>
-          <code>
-            <a href="https://www.linkedin.com/in/mike-hacker" target='_window'>LinkedIn</a>
-          </code>
-        </p>
       </main>
       <Footer />
     </div>
