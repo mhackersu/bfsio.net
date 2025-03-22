@@ -19,7 +19,7 @@ export default function Projects() {
       <main>
         <p><code><a href="/feeder">Online Feeder</a></code></p>
         <p><code><a href="/infra-assistant">Infra Assistant</a></code></p>
-        <p><code><a href="/k8s-debugging-app">Kate's Butler</a></code></p>
+        <p><code><a href="/k8s-debugging-app">Debugging Assistant</a></code></p>
       </main>
       <Footer />
     </div>
