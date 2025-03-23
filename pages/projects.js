@@ -17,9 +17,8 @@ export default function Projects() {
       <a href="/"><code>back to home page...</code></a>
       <Header title={title}/>
       <main>
-        <p><code><a href="/feeder">Online Feeder</a></code></p>
-        <p><code><a href="/infra-assistant">Infra Assistant</a></code></p>
-        <p><code><a href="/k8s-debugging-app">Debugging Assistant</a></code></p>
+        <p><code><a href="/feeder">Event Feeder</a></code></p>
+        <p><code><a href="/infra-assistant">Localstack Dev Templates</a></code></p>
       </main>
       <Footer />
     </div>
