@@ -17,7 +17,13 @@ export default function Sdc() {
       <a href="/projects"><code>back to projects...</code></a>
       <Header title={title}/>
     <main>
+        
+    </main>
+    <main>
+        <p><code><a href="#" target="_window">SDC Calc</a></code></p>
         <p>SDC Financial Analysis Calculator</p>
+        <p><code><a href="https://github.com/mhackersu/sdc" target="_window">Source</a></code></p>
+        <br></br>
     </main>
     <Footer />
     </div>
