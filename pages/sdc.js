@@ -6,7 +6,7 @@ import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
 export default function Sdc() {
-  const title = "Sdc";
+  const title = "SDC Calculator";
   return (
     <div className="container">
       <Head>
