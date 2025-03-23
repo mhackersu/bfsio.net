@@ -18,7 +18,7 @@ export default function Projects() {
       <Header title={title}/>
       <main>
         <p><code><a href="/feeder">GRPC Event Generator</a></code></p>
-        <p><code><a href="/sdc">Gemeni API Currency Analysis</a></code></p>
+        <p><code><a href="/sdc">Py/Docker Financial Analysis Calculator</a></code></p>
         <p><code><a href="/infra-assistant">Localstack Dev Templates</a></code></p>
       </main>
       <Footer />
