@@ -17,7 +17,7 @@ export default function Feeder() {
       <a href="/projects"><code>back to projects...</code></a>
       <Header title={title}/>
     <main>
-        <p><code><a href="https://online-feeder.vercel.app" target="_window">Online Event Generator</a></code></p>
+        <p><code><a href="https://online-feeder.vercel.app" target="_window">Event Operator</a></code></p>
         <p>Go Feeder</p>
         <p><code><a href="https://github.com/mhackersu/go-feeder" target="_window">Source</a></code></p>
         <br></br>
