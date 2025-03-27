@@ -23,7 +23,7 @@ export default function About() {
           </code>
         </p>
         <br></br>
-        <b>DevOps Consulting</b>
+        <b>Full-Stack Consulting</b>
         <br></br>
         <br></br>
       </main>
