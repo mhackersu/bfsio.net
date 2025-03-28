@@ -1,12 +1,12 @@
-// projects.js
+// gallery.js
 
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function Projects() {
-  const title = "Projects";
+export default function Gallery() {
+  const title = "Gallery";
   return (
     <div className="container">
       <Head>

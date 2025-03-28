@@ -10,17 +10,11 @@ export default function Welcome() {
   return (
     <div className="container">
       <Head>
+        <a href="/"><code>back to home page...</code></a>
         <title>Welcome</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <a href="/"><code>back to home page...</code></a>
         <Header title={title}/>
         <p>
           <code>

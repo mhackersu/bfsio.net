@@ -22,8 +22,8 @@ export default function Home() {
             </a>
           </p>
           <p>
-            <a href="/projects">
-              <code>projects</code>
+            <a href="/gallery">
+              <code>gallery</code>
             </a>
           </p>
           <p>
