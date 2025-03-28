@@ -13,7 +13,7 @@ export default function Home() {
       <main>
       <br></br>
       <br></br>
-      <i>mindfully created, minimal design</i>
+      <i>online code projects gallery</i>
       <br></br>
       <br></br>
           <p>
@@ -32,9 +32,6 @@ export default function Home() {
             </a>
           </p>
           <p>
-            <a href="https://mvskokvlke.com/" target="_window">
-              <code>blog</code>
-            </a>
           </p>
       </main>
       <Footer />

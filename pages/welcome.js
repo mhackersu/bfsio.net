@@ -10,12 +10,12 @@ export default function Welcome() {
   return (
     <div className="container">
       <Head>
-        <a href="/"><code>back to home page...</code></a>
         <title>Welcome</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
         <Header title={title}/>
+        <a href="/"><code>back to home page...</code></a>
         <p>
           <code>
             <a href="https://github.com/mhackersu/bfsio.net" target='_window'>This site runs on Next.js</a>
