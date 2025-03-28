@@ -15,7 +15,7 @@ export default function WeatherCalc() {
       </Head>
       <br></br>
       <br></br>
-      <a href="/projects"><code>back to projects...</code></a>
+      <a href="/gallery"><code>back to gallery...</code></a>
       <Header title={title}/>
     <main>
         <p><code><a href="https://fp-weather.netlify.app/" target='_window'>Calculate Local Weather</a></code></p>

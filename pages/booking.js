@@ -14,7 +14,7 @@ export default function Booking() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <br></br>
-      <a href="/projects"><code>back to projects...</code></a>
+      <a href="/gallery"><code>back to gallery...</code></a>
       <Header title={title}/>
     <main>
         <p><code><a href="#" target="_window">Online Booking & Registration</a></code></p>
