@@ -1,11 +1,11 @@
-// sdc.js
+// fincalc.js
 
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function Sdc() {
+export default function FinCalc() {
   const title = "SDC Calculator";
   return (
     <div className="container">
@@ -21,7 +21,7 @@ export default function Sdc() {
     </main>
     <main>
         <p><code><a href="https://github.com/mhackersu/sdc" target="_window">SDC Calc</a></code></p>
-        <p>SDC Financial Analysis Calculator</p>
+        <p>Standard Deviation Currency Calculator</p>
         <p><code><a href="https://github.com/mhackersu/sdc" target="_window">Source</a></code></p>
         <br></br>
     </main>

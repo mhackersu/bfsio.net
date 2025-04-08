@@ -18,9 +18,10 @@ export default function Gallery() {
       <Header title={title}/>
       <main>
         <p><code><a href="/weathercalc">Calculate Local Weather</a></code></p>
-        <p><code><a href="/sdc">Financial Analysis Calculator</a></code></p>
-        <p><code><a href="/booking">Online Booking & Registration</a></code></p>
-        <p><code><a href="/recipes">Recipes</a></code></p>
+        <p><code><a href="/fincalc">Financial Analysis Calculator</a></code></p>
+        {/* <p><code><a href="/storybook">StoryBook</a></code></p> */}
+        {/* <p><code><a href="/booking">Online Booking & Registration</a></code></p> */}
+        {/* <p><code><a href="/fostercs">Foster CS</a></code></p> */}
         {/* <p><code><a href="/holycalc">Calculate Holy Days</a></code></p> */}
         {/* <p><code><a href="/masslookup">Lookup Local Mass</a></code></p> */}
       </main>
