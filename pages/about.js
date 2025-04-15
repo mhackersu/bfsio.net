@@ -17,14 +17,45 @@ export default function About() {
       	<br></br>
       	<a href="/"><code>back to home page...</code></a>
       <main>
-        <p>
-          <code>
-            <a href="https://github.com/bfsio" target='_window'>GitHub</a>
-          </code>
-        </p>
+        <h1>Infrastructure Services Research</h1>
+        <div>
+          <ul>
+              <li>
+              <b>Organization:</b> Banana For Scale
+              </li>
+              <li>
+              <b>Domain:</b> Infrastructure Engineering & Education 
+              </li>
+              <li>
+              <b>Core Mission:</b> Bridging compatibility, accessibility, and excellence in infrastructure.
+              </li>
+          </ul>
+        </div>
+        <h2>Thesis</h2>
+        <h4>Production Parody & Cost Relationship</h4>
+        <p>Exploring the widely referenced (yet often unproven) claim that software defects cost</p>
+        <p>100x more to fix in production, we pursue a hypothesis-driven approach to test assumptions</p>
+        <p>in enterprise development environments. Our goal is to demystify software engineering</p>
+        <p> practices, reducing reliance on folklore and emphasizing empirical, repeatable experimentation.</p>
         <br></br>
-        <b>Platform Consultant</b>
-        <br></br>
+        <div>
+
+          <h2>Research Focus Areas</h2>
+          <ul>
+            <li>
+              Environment Compatibility Testing
+            </li>
+            <li>
+              Toolchain Emulation & Docker-Based Deployment
+            </li>
+            <li>
+              Resilient System Design
+            </li>
+            <li>
+              Developer Experience Edge Cases
+            </li>
+          </ul>
+        </div>
         <br></br>
       </main>
       <Footer />
