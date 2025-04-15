@@ -5,8 +5,8 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function Gallery() {
-  const title = "Gallery";
+export default function Collection() {
+  const title = "BFS Collection";
   return (
     <div className="container">
       <Head>
@@ -17,8 +17,8 @@ export default function Gallery() {
       <a href="/"><code>back to home page...</code></a>
       <Header title={title}/>
       <main>
-        <p><code><a href="/weathercalc">Calculate Local Weather</a></code></p>
-        <p><code><a href="/fincalc">Financial Analysis Calculator</a></code></p>
+        <p><code><a href="/infsvc">Infra Services Research Project</a></code></p>
+        {/* <p><code><a href="/fincalc">Financial Analysis Calculator</a></code></p> */}
         {/* <p><code><a href="/storybook">StoryBook</a></code></p> */}
         {/* <p><code><a href="/booking">Online Booking & Registration</a></code></p> */}
         {/* <p><code><a href="/fostercs">Foster CS</a></code></p> */}

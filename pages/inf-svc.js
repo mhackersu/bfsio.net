@@ -5,8 +5,8 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 import {Accordion, AccordionItem} from "@nextui-org/react";
 
-export default function K8sDebuggerHelper() {
-  const title = "k8s Debugging Helper"
+export default function Infsvc() {
+  const title = "Infra Services"
   return (
     <div className="container">
       <Head>
@@ -15,22 +15,21 @@ export default function K8sDebuggerHelper() {
       </Head>
       <br></br>
       <br></br>
-      <a href="/projects"><code>back to projects...</code></a>
+      <a href="/collection"><code>back to collection...</code></a>
       <Header title={title}/>
       <main>
         <p>
           <code>
-              <a href="https://k8s-debugging-helper-app.netlify.app/" target='_window'>k8s Debugger Helper App</a>
+              <a href="https://github.com/bfsio/inf-svc" target='_window'>Infra Services Research</a>
           </code>
         </p>
         <br></br>
-        <li>utilizes k8s <a href="https://learnk8s.io/troubleshooting-deployments" target='_window'>debugging</a> workflow</li>
+        <li>utilizes docker, minikube, localstack <a href="#" target='_window'>debugging</a> workflow</li>
         <li>guides user thru k8s debugging steps</li>
-        <li>interactive design</li>
         <br></br>
         <p>
           <code>
-              <a href="https://github.com/mhackersu/k8s-debuging-helper-app" target='_window'>GitHub</a>
+              <a href="https://github.com/bfsio/" target='_window'>BFS GitHub</a>
           </code>
         </p>
         <br></br>

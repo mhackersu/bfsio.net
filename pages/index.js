@@ -3,7 +3,7 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 export default function Home() {
-  const title = "Banana For Scale"
+  const title = "BFSIO"
   return (
     <div className="container">
       <Head>
@@ -13,17 +13,12 @@ export default function Home() {
       <main>
       <br></br>
       <br></br>
-      <i>online code projects gallery</i>
+      <i>Scaling Infrastructure</i>
       <br></br>
       <br></br>
           <p>
-            <a href="/welcome">
-              <code>welcome</code>
-            </a>
-          </p>
-          <p>
-            <a href="/gallery">
-              <code>gallery</code>
+            <a href="/collection">
+              <code>collection</code>
             </a>
           </p>
           <p>
