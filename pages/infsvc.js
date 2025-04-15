@@ -20,12 +20,15 @@ export default function Infsvc() {
       <main>
         <p>
           <code>
-              <a href="https://github.com/bfsio/inf-svc" target='_window'>Infra Services Research</a>
+              <a href="https://github.com/bfsio/inf-svc" target='_window'>Infrastructure Services</a>
           </code>
         </p>
         <br></br>
-        <li>utilizes docker, minikube, localstack <a href="#" target='_window'>debugging</a> workflow</li>
-        <li>guides user thru k8s debugging steps</li>
+        <li>Infrastructure Lab Setup</li>
+        <li>Resiliency Testing</li>
+        <li>Compatibility Focus</li>
+        <li>Educational Impact</li>
+        <li>Organizational Mission</li>
         <br></br>
         <p>
           <code>
